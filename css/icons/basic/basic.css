@@ -1,0 +1,196 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('icomoon.eot');
+	src:url('icomoon.eot?#iefix') format('embedded-opentype'),
+		url('icomoon.woff') format('woff'),
+		url('icomoon.ttf') format('truetype'),
+		url('icomoon.svg#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+	font-family: 'icomoon';
+	content: attr(data-icon);
+	speak: none;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="icon-"] {
+*/
+.icon-loop, .icon-loop-alt2, .icon-cog, .icon-home, .icon-grin, .icon-cool, .icon-smiley, .icon-happy, .icon-sad, .icon-wink, .icon-tongue, .icon-neutral, .icon-angry, .icon-shocked, .icon-checkmark, .icon-checkmark-2, .icon-checkbox-checked, .icon-checkbox-unchecked, .icon-radio-unchecked, .icon-radio-checked, .icon-bubble, .icon-bubbles, .icon-user, .icon-users, .icon-cog-2, .icon-warning, .icon-lock-fill, .icon-unlock-stroke, .icon-pen-alt-fill, .icon-book-alt2, .icon-plus-alt, .icon-minus-alt, .icon-pin, .icon-checkmark-3, .icon-x, .icon-grid, .icon-list, .icon-location, .icon-location-2, .icon-console, .icon-chrome, .icon-firefox, .icon-IE, .icon-opera, .icon-play, .icon-earth, .icon-globe, .icon-lab, .icon-pencil, .icon-arrow-right, .icon-help, .icon-new {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+.icon-loop:before {
+	content: "\66";
+}
+.icon-loop-alt2:before {
+	content: "\46";
+}
+.icon-cog:before {
+	content: "\70";
+}
+.icon-home:before {
+	content: "\68";
+}
+.icon-grin:before {
+	content: "\31";
+}
+.icon-cool:before {
+	content: "\32";
+}
+.icon-smiley:before {
+	content: "\33";
+}
+.icon-happy:before {
+	content: "\34";
+}
+.icon-sad:before {
+	content: "\35";
+}
+.icon-wink:before {
+	content: "\36";
+}
+.icon-tongue:before {
+	content: "\37";
+}
+.icon-neutral:before {
+	content: "\38";
+}
+.icon-angry:before {
+	content: "\39";
+}
+.icon-shocked:before {
+	content: "\30";
+}
+.icon-checkmark:before {
+	content: "\79";
+}
+.icon-checkmark-2:before {
+	content: "\59";
+}
+.icon-checkbox-checked:before {
+	content: "\63";
+}
+.icon-checkbox-unchecked:before {
+	content: "\43";
+}
+.icon-radio-unchecked:before {
+	content: "\72";
+}
+.icon-radio-checked:before {
+	content: "\52";
+}
+.icon-bubble:before {
+	content: "\6d";
+}
+.icon-bubbles:before {
+	content: "\4d";
+}
+.icon-user:before {
+	content: "\75";
+}
+.icon-users:before {
+	content: "\55";
+}
+.icon-cog-2:before {
+	content: "\3c";
+}
+.icon-warning:before {
+	content: "\77";
+}
+.icon-lock-fill:before {
+	content: "\73";
+}
+.icon-unlock-stroke:before {
+	content: "\53";
+}
+.icon-pen-alt-fill:before {
+	content: "\65";
+}
+.icon-book-alt2:before {
+	content: "\6f";
+}
+.icon-plus-alt:before {
+	content: "\61";
+}
+.icon-minus-alt:before {
+	content: "\44";
+}
+.icon-pin:before {
+	content: "\74";
+}
+.icon-checkmark-3:before {
+	content: "\6b";
+}
+.icon-x:before {
+	content: "\64";
+}
+.icon-grid:before {
+	content: "\69";
+}
+.icon-list:before {
+	content: "\49";
+}
+.icon-location:before {
+	content: "\6c";
+}
+.icon-location-2:before {
+	content: "\4c";
+}
+.icon-console:before {
+	content: "\71";
+}
+.icon-chrome:before {
+	content: "\26";
+}
+.icon-firefox:before {
+	content: "\e9";
+}
+.icon-IE:before {
+	content: "\22";
+}
+.icon-opera:before {
+	content: "\27";
+}
+.icon-play:before {
+	content: "\21";
+}
+.icon-earth:before {
+	content: "\23";
+}
+.icon-globe:before {
+	content: "\24";
+}
+.icon-lab:before {
+	content: "\25";
+}
+.icon-pencil:before {
+	content: "\28";
+}
+.icon-arrow-right:before {
+	content: "\29";
+}
+.icon-help:before {
+	content: "\2a";
+}
+.icon-new:before {
+	content: "\2b";
+}
